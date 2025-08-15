@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: No test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "test:coverage": "echo \"Run tests and generate coverage report\""
   },
   "repository": {
     "type": "git",
