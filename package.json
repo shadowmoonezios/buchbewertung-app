@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Fehler: Kein Test angegeben\" && exit 1",
-    "start": "node index.js"  // Start command for easy execution
+    "start": "node index.js" // Start command for easy execution
   },
   "repository": {
     "type": "git",
