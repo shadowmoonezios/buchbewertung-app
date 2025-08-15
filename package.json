@@ -1,17 +1,17 @@
 {
   "name": "mein-paket",
   "version": "1.0.0",
-  "description": "Eine Beschreibung meines Pakets",
+  "description": "A description of my package",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Fehler: Kein Test angegeben\" && exit 1",
+    "test": "echo \"Error: No test specified\" && exit 1",
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/example/mein-paket.git"
   },
-  "keywords": ["beispiel", "paket", "node"],
+  "keywords": ["example", "package", "node"],
   "author": "Mein Name",
   "license": "ISC",
   "bugs": {
