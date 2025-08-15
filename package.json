@@ -1,7 +1,7 @@
 {
   "name": "mein-paket",
   "version": "1.0.0",
-  "description": "A description of my package",
+  "description": "Eine detaillierte Beschreibung meines Pakets mit Funktionen und Nutzungshinweisen.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: No test specified\" && exit 1",
